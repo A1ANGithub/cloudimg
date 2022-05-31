@@ -1,2 +1,0 @@
-# cloudimg
-store img
